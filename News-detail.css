@@ -1,0 +1,36 @@
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.share-box li
+{
+	font-size: 30px;
+	margin: 10px;
+	display: inline;
+}
+ul 
+{
+	list-style: none;
+}
+span
+{
+	display: inline;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+ 	h1
+	{
+		font-size: 30px;
+		
+	}
+	.share-box i
+	{
+	font-size: 20px;
+
+	}
+}

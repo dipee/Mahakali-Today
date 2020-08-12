@@ -1,0 +1,25 @@
+.nav-tabs
+{
+	margin-top: 20px;
+}
+.tab-content
+{
+	padding-right: 20px;
+}
+.image-main-content 
+{
+	display: flex;
+}
+.image-main
+{
+	margin-right: 10px;
+}
+.image-main-content
+{
+	margin-top: 10px;
+}
+/* .image-sub
+{
+	margin-left: 5px; 
+}
+ */
